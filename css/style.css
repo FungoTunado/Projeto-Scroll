@@ -42,13 +42,10 @@ main section{
 }
 
 .fa-solid{
-    display: flex;
-    /* margin-left: 1740px; */
     right: 0px;
     position: fixed;
     bottom: 50px;
     font-size: 50px;
-    /* margin-top: 850px; */
     opacity: 0;
     transition: 500ms;
 }
